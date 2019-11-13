@@ -10,7 +10,7 @@ kafka는 간략히 말하자면 **대용량 실시간 데이터 처리를 위한
 
 ### 2. kafka의 주요 기능
 
-1. 메세지 큐, 엔터프라이즈용 메세징 시스템과 비슷하게 레코드 스트림\(streams of records\) 게시\(Publish\), 구독\(Subscribe\)하는 특성
+1. 메세지 큐, 엔터프라이즈용 메세징 시스템과 비슷하게 레코드 스트림\(streams of records\)을 게시\(Publish\), 구독\(Subscribe\)하는 특성
 2. 장애 허용 지속 방식\(fault-tolerance durable way\)으로 레코드 스트림의 안전을 보장하는 방식으로 저장
 3. 레코드 스트림이 발생할 때 처리
 
