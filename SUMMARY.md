@@ -9,4 +9,5 @@
 ## Kafka Concepts
 
 * [kafka 단위](kafka-concepts/kafka.md)
+* [Geo-Replication](geo-replication.md)
 
