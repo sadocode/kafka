@@ -8,5 +8,5 @@
 
 ## Kafka Concepts
 
-* [kafka 추상화 개념](kafka-concepts/kafka.md)
+* [kafka 단위](kafka-concepts/kafka.md)
 
